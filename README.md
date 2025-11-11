@@ -8,11 +8,11 @@ Your task is to **guess the word correctly** with the help of hints after every 
 
 2- Features
 
-✅ Choose between Easy, Medium, or Difficul* levels  
-✅ The computer selects a random word from the chosen level  
-✅ Get hints showing which letters are correct and in the right place  
-✅ Count the number of attempts you take to guess the correct word  
-✅ Simple and interactive command-line interface
+- Choose between Easy, Medium, or Difficul* levels  
+- The computer selects a random word from the chosen level  
+- Get hints showing which letters are correct and in the right place  
+- Count the number of attempts you take to guess the correct word  
+- Simple and interactive command-line interface
 
 ---
 
